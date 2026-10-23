@@ -174,3 +174,11 @@ git push -u origin main
 - **Frontend says it can't reach the server**: start the API gateway on port 8000 and check `VITE_API_BASE_URL`.
 - **503 from the gateway**: one of the three services isn't running. `GET /health` shows which.
 - **CORS error**: add your frontend origin to `CORS_ORIGINS` in the gateway `.env`.
+- <img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 05 12 PM" src="https://github.com/user-attachments/assets/151fea45-6ba9-48fb-8cc2-34f3be8b7870" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 05 05 PM" src="https://github.com/user-attachments/assets/25bfd548-23e3-4b0d-bbbb-d3ee9646830e" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 04 57 PM" src="https://github.com/user-attachments/assets/ad452a8b-8575-4398-8d25-3d835db55a6d" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 04 48 PM" src="https://github.com/user-attachments/assets/e25de458-ff6d-4914-b31d-0603453b6621" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 04 29 PM" src="https://github.com/user-attachments/assets/e9883226-4bdc-4826-8ec8-228c65975456" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 2 00 34 PM" src="https://github.com/user-attachments/assets/379107ec-34e3-490e-aae1-81a2e42ebd46" />
+<img width="1470" height="956" alt="Screenshot 2026-10-23 at 1 59 45 PM" src="https://github.com/user-attachments/assets/3ec819c9-692d-4506-bb99-f2ef03db6423" />
+
